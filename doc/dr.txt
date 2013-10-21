@@ -1,0 +1,20 @@
+ex05
+
+1/1
+
+.gitignore ?
+
+README.md: noms ?
+
+Zone.dart
+->
+zone.dart
+SubtriIso()
+->
+subtriIso()
+voir: https://www.dartlang.org/articles/style-guide/
+
+library drawtriangles;
+part of drawtiangles;
+drawtriangles != drawtiangles
+
